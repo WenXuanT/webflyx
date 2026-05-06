@@ -3,3 +3,4 @@ bootdev run 079797b4-66f7-4b95-a5fd-a1163dba32d9 -s- "May thy knife chip and sha
 - "An Animal Caught In A Trap Will Gnaw Off Its Own Leg To Escape. What Will You Do?"
 - "When Is A Gift Not A Gift?"
 - "The spice must flow."
+- "Fear is the mind-killer."
